@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a personal Blog Website<br>👯 I’m looking to collaborate on anything in the Web/Mobile Development Domain<br>🤝 I’m looking for help with<br>🌱 I’m currently learning MERN stack, Android Development using Kotlin and AWS<br>💬 Ask me about Tech and Coffee. <br>⚡ Fun fact: In 1946, a computational error was recorded since an insect was literally trapped in relay. That is how the term bug was coined.
+🔭 I’m currently working on a personal Blog Website<br>👯 I’m looking to collaborate on anything in the Web/Mobile Development(Flutter/Android) Domain<br>🌱 I’m currently learning MERN stack, Android Development using Kotlin and AWS<br>💬 Ask me about Tech and Coffee. <br>⚡ Fun fact: In 1946, a computational error was recorded since an insect was literally trapped in relay. That is how the term bug was coined.
 
 
 ## 🌐 Socials:
@@ -14,9 +14,6 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
-
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=PratikThoratNortheastern&icon=0&color=0)](https://visitcount.itsvg.in)
