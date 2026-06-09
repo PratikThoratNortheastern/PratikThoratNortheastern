@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently open to Software/Frontend Engineering Opportunities in USA<br>👯 I’m looking to collaborate on anything in the Web(MERN stack)/Mobile Development(Flutter/Android) Domain<br>🌱 I’m currently learning MERN stack, Docker/Kubernetes and AWS<br>💬 Ask me about Tech and Coffee. <br>⚡ Fun fact: In 1946, a computational error was recorded since an insect was literally trapped in relay. That is how the term bug was coined.
+🔭 I’m currently open to Software/Frontend Engineering Opportunities in USA<br> Building AI-powered user interfaces
 
 
 ## 🌐 Socials:
